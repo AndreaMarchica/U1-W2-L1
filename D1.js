@@ -12,9 +12,11 @@ REGOLE
 */
 
 /*  I datatype di Javascript (linguaggio di programmazione che conferisce una logica alla pagina web/web-app/app/...) 
-più frequenti sono le stringhe, i numeri e i booleani. Possiamo immaginarli come il contenuto (valore) che è racchiuso all'interno di una scatola (la variabile).
+più frequenti sono le stringhe, i numeri, i booleani, undefined e null. Possiamo immaginarli come il contenuto (valore) che è racchiuso all'interno di una scatola (la variabile).
 Infatti se al valore di una variabile sarà conferita una stringa il suo contenuto sarà un testo, se sarà un numero il suo valore sarà un numero,
-se invece alla variabile sarà posta una condizione (ex. 5 > 10) allora il suo contenuto sarà un booleano che determina se la condizione è vera o falsa. */
+se invece alla variabile sarà posta una condizione (ex. 5 > 10) allora il suo contenuto sarà un booleano che determina se la condizione è vera o falsa.
+Infine undefined è il valore assegnato ad una variabile a cui non abbiamo conferito alcun valore, mentre null è il valore di una variabile che
+non ha valore alcuno (come una scatola vuota) */
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
